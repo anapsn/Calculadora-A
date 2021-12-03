@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(45deg,#ee1d0e, #e44dd7 );
+}
+
+input {
+    color:#08030a;
+    padding: 20px;
+    outline: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 19%;
+}
+.maincolor{ 
+    background-color: #e4ec6a;
+}
+
+.ppt {
+    background-color: rgb(75, 236, 97);
+}
+
+.num {
+    width: 70px;
+    height: 65px;
+}
+
+.text {
+    width: 180px;
+    height: 10%;
+    border-radius: 30px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.text1 {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    cursor: pointer;
+}
